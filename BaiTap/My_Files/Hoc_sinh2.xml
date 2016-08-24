@@ -1,0 +1,16 @@
+<DANH_SACH_HOC_SINH>
+  <HOC_SINH>
+    <Ma_so>01</Ma_so>
+    <Ho_ten>Tâm</Ho_ten>
+    <Dien_thoai>0908929080</Dien_thoai>
+    <Diem_toan>5</Diem_toan>
+    <Diem_van>7</Diem_van>
+  </HOC_SINH>
+  <HOC_SINH>
+    <Ma_so>02</Ma_so>
+    <Ho_ten>An</Ho_ten>
+    <Dien_thoai>090987666</Dien_thoai>
+    <Diem_toan>9</Diem_toan>
+    <Diem_van>5.5</Diem_van>
+  </HOC_SINH>
+</DANH_SACH_HOC_SINH>

@@ -1,0 +1,4 @@
+A01;le van teo;rrr
+A02;le van ti;kkk
+B01;nguyen van nam;rrr
+B02;nguyen conglap;kkk
